@@ -10,9 +10,9 @@
 <p align='center'>Frontend Developer | React Developer | Web Developer</p>
 
 
-<p align='left'>Turning ideas into interactive web experiences with React and modern frontend technologies.<br>
+<p align='left'>A passionate developer turning ideas into interactive web experiences with React and modern frontend technologies.<br>
 <br>
-Passionate about creating responsive, user-friendly applications with clean UI, smooth functionality, and attention to detail while continuously improving my problem-solving and development skills.
+Focused on building responsive, user-friendly applications with clean UI, smooth functionality, and attention to detail while continuously improving my problem-solving and development skills.
 <br>
 
 ### 💻 Tech Stack:
