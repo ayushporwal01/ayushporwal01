@@ -10,11 +10,11 @@
 
 I'm currently learning **web development** using multiple **tools, frameworks and libraries** in frontend. I pay *a lot of attention to detail* to generate best products.
 
-## 🌐 Socials:
+### 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <br>
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,12 +27,12 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 
 <br>
 
-🧐 **Knowledge of:**<br>
+### 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
+`Responsive web design`, `DOM`, `React Router`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
 <br>
 
-## 🌍 **Deployment Platforms**: 
+### 🌍 **Deployment Platforms**: 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
