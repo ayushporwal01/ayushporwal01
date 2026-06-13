@@ -3,7 +3,7 @@
  
 <h2 align='center'><samp><strong>Hi👋, I am Ayush Porwal</strong></samp></h2>
 <!--<h3 align='center'><strong><a href="https://prathameshjadhav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>-->
-<p align='center'>A Frontend Developer | React Developer | Web Developer</p>
+<p align='center'>Frontend Developer | React Developer | Web Developer</p>
 
 
 <p align='left'> A passionate developer with a deep curiosity for learning and building. I love solving problems, creating meaningful projects, and continuously improving my skills.</p>
