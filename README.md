@@ -11,7 +11,6 @@
 I'm currently learning **web development** using multiple **tools, frameworks and libraries** in frontend. I pay *a lot of attention to detail* to generate best products.
 
 <br>
-<br>
 
 ### 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
