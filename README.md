@@ -14,6 +14,7 @@
 <br>
 Focused on building responsive, user-friendly applications with clean UI, smooth functionality, and attention to detail while continuously improving my problem-solving and development skills.
 <br>
+<br>
 
 ### 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
