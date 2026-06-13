@@ -10,9 +10,8 @@
 <p align='center'>Frontend Developer | React Developer | Web Developer</p>
 
 
-<p align='left'>A passionate frontend developer with a strong curiosity for learning and building impactful projects. I enjoy solving problems, creating interactive user experiences, and continuously improving my development skills through hands-on projects.
+<p align='left'>Turning ideas into interactive web experiences with React and modern frontend technologies. Passionate about building responsive and user-friendly applications while continuously improving my problem-solving and development skills.
 
-Currently i'm focused on modern frontend development, I work with technologies like JavaScript, React, Redux, and Tailwind CSS to build responsive and user-friendly applications. I pay close attention to detail and strive to create clean, polished, and high-quality user experiences.
 <br>
 
 ### 💻 Tech Stack:
