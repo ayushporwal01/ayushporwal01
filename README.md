@@ -22,7 +22,7 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 <br>
-#### 🧐 **Knowledge of:**<br>
+### 🧐 **Knowledge of:** <br>
 
 `Responsive web design`, `DOM`, `React Router`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
 <br>
@@ -31,7 +31,7 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushporwal01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
