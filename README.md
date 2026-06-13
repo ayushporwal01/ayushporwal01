@@ -1,15 +1,18 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/ayushporwal01?label=Follow%20Me&style=social)](https://github.com/ayushporwal01)
 <br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Porwal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushporwal1/)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=pratham0709&label=Profile%20views&color=0e75b6&style=flat" alt="pratham0709"/> <
+<br>
  
-<h2 align='center'><samp><strong>Hi👋, I am Ayush Porwal</strong></samp></h2>
+ <h2 align='center'><samp><strong>Hi👋, I am Ayush Porwal</strong></samp></h2>
 <!--<h3 align='center'><strong><a href="https://prathameshjadhav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>-->
 <p align='center'>Frontend Developer | React Developer | Web Developer</p>
 
 
-<p align='left'> A passionate developer with a deep curiosity for learning and building. I love solving problems, creating meaningful projects, and continuously improving my skills.</p>
+<p align='left'>A passionate frontend developer with a strong curiosity for learning and building impactful projects. I enjoy solving problems, creating interactive user experiences, and continuously improving my development skills through hands-on projects.
 
-I'm currently learning **web development** using multiple **tools, frameworks and libraries** in frontend. I pay *a lot of attention to detail* to generate best products.
-
+Currently i'm focused on modern frontend development, I work with technologies like JavaScript, React, Redux, and Tailwind CSS to build responsive and user-friendly applications. I pay close attention to detail and strive to create clean, polished, and high-quality user experiences.
 <br>
 
 ### 💻 Tech Stack:
