@@ -8,7 +8,7 @@
 
 <p align='left'> A passionate developer with a deep curiosity for learning and building. I love solving problems, creating meaningful projects, and continuously improving my skills.</p>
 
-I'm currently learning **web development** using multiple **tools, frameworks and libraries** in frontend. I pay *a lot of attention to detail* to generate best products.
+I'm currently learning **web development** using multiple **tools, frameworks and libraries** in frontend. I pay *a lot of attention to detail* to generate best products.<br>
 
 ### 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
