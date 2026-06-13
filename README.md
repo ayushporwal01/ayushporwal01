@@ -2,7 +2,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Porwal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushporwal1/)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=pratham0709&label=Profile%20views&color=0e75b6&style=flat" alt="pratham0709"/> <
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ayushporwal01&label=Profile%20views&color=0e75b6&style=flat" alt="ayushporwal01"/>
 <br>
  
  <h2 align='center'><samp><strong>Hi👋, I am Ayush Porwal</strong></samp></h2>
