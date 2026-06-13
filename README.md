@@ -22,7 +22,9 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 <br>
-#### 🧐 **Knowledge of:**`Responsive web design`, `DOM`, `React Router`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
+#### 🧐 **Knowledge of:**<br>
+
+`Responsive web design`, `DOM`, `React Router`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
 <br>
 
 #### 🌍 **Deployment Platforms**: 
