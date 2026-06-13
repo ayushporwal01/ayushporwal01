@@ -11,8 +11,8 @@
 
 
 <p align='left'>Turning ideas into interactive web experiences with React and modern frontend technologies.<br>
- Passionate about creating responsive, user-friendly applications with clean UI, smooth functionality, and attention to detail. while continuously improving my problem-solving and development skills.
-
+<br>
+Passionate about creating responsive, user-friendly applications with clean UI, smooth functionality, and attention to detail. while continuously improving my problem-solving and development skills.
 <br>
 
 ### 💻 Tech Stack:
