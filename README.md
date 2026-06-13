@@ -37,7 +37,7 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 `Responsive web design`, `DOM`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
 <br>
 
-## **Deployment Platforms**: 
+### **Deployment Platforms**: 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
