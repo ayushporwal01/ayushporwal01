@@ -41,5 +41,4 @@ Focused on building responsive, user-friendly applications with clean UI, smooth
 <br>
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushporwal01)](https://git.io/streak-stats)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
