@@ -39,7 +39,4 @@ Focused on building responsive, user-friendly applications with clean UI, smooth
 ### 🌍 **Deployment Platforms**: 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-<br>
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+
