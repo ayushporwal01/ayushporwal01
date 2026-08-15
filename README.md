@@ -1,42 +1,106 @@
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/ayushporwal01?label=Follow%20Me&style=social)](https://github.com/ayushporwal01)
-<br>
+<!-- VEDANSH DANOT PROFILE README FILE -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Porwal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushporwal1/)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ayushporwal01&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-<br>
- 
- <h2 align='center'><samp><strong>Hi👋, I am Ayush Porwal</strong></samp></h2>
-<h3 align='center'><strong><a href="https://prathameshjadhav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Frontend Developer | React Developer | Web Developer</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushporwal01/ayushporwal01/main/LOGO-WHITE.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushporwal01/ayushporwal01/main/LOGO-BLACK.png" />
+  <img alt="Profile Logo" src="https://raw.githubusercontent.com/py-kalki/ayushporwal01/main/LOGO-BLACK.png" />
+</picture>
 
+<div align="center">
 
-<p align='left'>A passionate developer turning ideas into interactive web experiences with React and modern frontend technologies.<br>
-<br>
-Focused on building responsive, user-friendly applications with clean UI, smooth functionality, and attention to detail while continuously improving my problem-solving and development skills.
-<br>
-<br>
+<picture>
+  <!-- Dark mode snake -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/py-kalki/ayushporwal01/output/github-contribution-grid-snake-dark.svg" />
 
-### 💻 Tech Stack:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-F7F7F7?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-<br>
-<br>
-### 🧐 **Knowledge of:** <br>
+  <!-- Light mode snake -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/py-kalki/ayushporwal01/output/github-contribution-grid-snake.svg" />
 
-`Responsive web design`, `DOM`, `React Router`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
-<br>
-<br>
-### 🌍 **Deployment Platforms**: 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+  <!-- Fallback (light mode) -->
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/py-kalki/ayushporwal01/output/github-contribution-grid-snake.svg" />
+</picture>
 
+</div>
+
+## Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
+
+---
+
+## 🚀 About Me
+
+```typescript
+const vedansh = {
+    name: "Ayush Porwal",
+    location: "India 🇮🇳",
+    code: ["JavaScript", "C++"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Tailwind", "CSS3"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+        },
+        databases: ["MongoDB"],
+        tools: ["Git", "Postman", "VS Code", "Vercel"]
+    },
+    currentFocus: "Learning and trying new things",
+    funFact: "I debug with console.log() and I'm proud of it! 😄"
+};
+```
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ayushporwal01/ayushporwal01/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## 💼 What I'm Up To
+
+- 🔭 Currently exploring **new technologies and frameworks**
+- 🌱 Learning and **trying new things**
+- 👯 Looking to collaborate on **web development projects**
+- 💬 Ask me about **JavaScript, Python, React, Node.js, or anything tech!**
+- ⚡ Fun fact: **Chai + Code = Magic ✨☕**
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushporwal1)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayush.dev)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://ayushdotdev6)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayushdotdev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushdotdev6@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Show some love by starring some repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayushporwal01&color=3DDCF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**⭐️ From [ayushporwal01](https://github.com/ayushporwal01) with ❤️**
+
+</div>
