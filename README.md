@@ -1,13 +1,26 @@
-<!-- VEDANSH DANOT PROFILE README FILE -->
+<!-- AYUSH PORWAL PROFILE README FILE -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushporwal01/ayushporwal01/refs/heads/main/LOGO-WHITE.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushporwal01/ayushporwal01/main/LOGO-BLACK.png" />
-  <img alt="Profile Logo" src="https://raw.githubusercontent.com/py-kalki/ayushporwal01/main/LOGO-BLACK.png" />
-  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/py-kalki/py-kalki/main/LOGO-BLACK.png" />
+  <img alt="Profile Logo" src="https://raw.githubusercontent.com/py-kalki/py-kalki/main/LOGO-BLACK.png" />
 </picture>
 
 <div align="center">
+
+<picture>
+  <!-- Dark mode snake -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/py-kalki/py-kalki/output/github-contribution-grid-snake-dark.svg" />
+
+  <!-- Light mode snake -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/py-kalki/py-kalki/output/github-contribution-grid-snake.svg" />
+
+  <!-- Fallback (light mode) -->
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/py-kalki/py-kalki/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 
 <picture>
   <!-- Dark mode snake -->
