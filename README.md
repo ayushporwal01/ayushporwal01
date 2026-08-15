@@ -74,7 +74,7 @@ const ayush = {
 - 🔭 Currently exploring **new technologies and frameworks**
 - 🌱 Learning and **trying new things**
 - 👯 Looking to collaborate on **web development projects**
-- 💬 Ask me about **JavaScript, React, Node.js, or related to web-development!**
+- 💬 Ask me about **JavaScript, React, Node.js, or anything related to web-development!**
 
 ## 📫 Let's Connect!
 
