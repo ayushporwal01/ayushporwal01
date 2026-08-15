@@ -42,7 +42,7 @@
 ## 🚀 About Me
 
 ```typescript
-const vedansh = {
+const ayush = {
     name: "Ayush Porwal",
     location: "India 🇮🇳",
     code: ["JavaScript", "C++"],
