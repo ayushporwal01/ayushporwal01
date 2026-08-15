@@ -58,7 +58,6 @@ const vedansh = {
         tools: ["Git", "Postman", "VS Code", "Vercel"]
     },
     currentFocus: "Learning and trying new things",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
 
@@ -76,7 +75,6 @@ const vedansh = {
 - 🌱 Learning and **trying new things**
 - 👯 Looking to collaborate on **web development projects**
 - 💬 Ask me about **JavaScript, React, Node.js, or anything tech!**
-- ⚡ Fun fact: **Chai + Code = Magic ✨☕**
 
 ## 📫 Let's Connect!
 
