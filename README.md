@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushporwal01/ayushporwal01/main/LOGO-WHITE.png" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushporwal01/ayushporwal01/main/LOGO-BLACK.png" />
   <img alt="Profile Logo" src="https://raw.githubusercontent.com/py-kalki/ayushporwal01/main/LOGO-BLACK.png" />
+  
 </picture>
 
 <div align="center">
