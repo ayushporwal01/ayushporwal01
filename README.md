@@ -74,7 +74,7 @@ const vedansh = {
 - 🔭 Currently exploring **new technologies and frameworks**
 - 🌱 Learning and **trying new things**
 - 👯 Looking to collaborate on **web development projects**
-- 💬 Ask me about **JavaScript, React, Node.js, or Express**
+- 💬 Ask me about **JavaScript, React, Node.js, or anything tech**
 
 ## 📫 Let's Connect!
 
